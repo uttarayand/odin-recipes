@@ -1,2 +1,1 @@
-# odin-recipes
-A basic website project to practice HTML
+A simple wesite project to get comfortable using HTML
